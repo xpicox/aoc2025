@@ -1,0 +1,4 @@
+-std=c++23
+-Weverything
+-Wno-poison-system-directories
+-Wno-c++98-compat
